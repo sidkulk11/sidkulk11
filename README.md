@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Siddharth(Sid).
 - 👀 I like to learn new things and understand how things work. I enjoy finding out bugs. For me, high quality rather than quantity yields best outcome/result. 
 - 👀 My interest lies in Manual Testing as well as Automation Testing. 
-- 🧭 I have experience working as a Manual Tester and looking for opportunities in the field of Software Testing.
+- 🧭 I am looking for opportunities in the field of Software Testing.
 - 💻 Programming skills: Core Java and SQL. 
 - 👉 Web Browser Automation: Selenium 
 - 👉 SQL: PostgreSQL
